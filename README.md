@@ -24,9 +24,8 @@
  
  <h2>📸 Screenshots</h2>
   <img src= "https://raw.githubusercontent.com/Scimath123/First-repository/a9030bad0129a37e73547603f98ed870a43779a7/Screenshot1.jpg" alt="Not Available">
-  <img src= "C:\Users\User\Documents\Blackmagic Design\Screenshot2.jpg"  alt="Not Available">
-
-  <h2>🌐 Live Demo</h2>
+  
+ <h2>🌐 Live Demo</h2>
   <p> <a href= "https://www.figma.com/design/wDHWM2bacr1xc4Kpgdrxmh/project-for-figma?node-id=1-3&t=8ZPe34lNBNcLl9RE-1" target="_blank">view prototype on Figma</a>.</p>
 
   <h2>🙌 Contribution</h2>
