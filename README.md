@@ -23,7 +23,7 @@
   </ul>
  
  <h2>📸 Screenshots</h2>
-  <img src= "C:\Users\User\Documents\(7) WhatsApp_files\Screenshot1.jpg" alt="Not Available">
+  <img src= "https://raw.githubusercontent.com/Scimath123/First-repository/a9030bad0129a37e73547603f98ed870a43779a7/Screenshot1.jpg" alt="Not Available">
   <img src= "C:\Users\User\Documents\Blackmagic Design\Screenshot2.jpg"  alt="Not Available">
 
   <h2>🌐 Live Demo</h2>
