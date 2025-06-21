@@ -27,7 +27,7 @@
   <img src= "C:\Users\User\Documents\Blackmagic Design\Screenshot2.jpg"  alt="Not Available">
 
   <h2>🌐 Live Demo</h2>
-  <p>Coming soon! Or <a href= "https://www.figma.com/design/wDHWM2bacr1xc4Kpgdrxmh/project-for-figma?node-id=1-3&t=8ZPe34lNBNcLl9RE-1" target="_blank">view prototype on Figma</a>.</p>
+  <p> <a href= "https://www.figma.com/design/wDHWM2bacr1xc4Kpgdrxmh/project-for-figma?node-id=1-3&t=8ZPe34lNBNcLl9RE-1" target="_blank">view prototype on Figma</a>.</p>
 
   <h2>🙌 Contribution</h2>
   <p>Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.</p>
