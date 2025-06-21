@@ -3,31 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Fitness App - README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      max-width: 800px;
-      margin: auto;
-      padding: 20px;
-      background-color: #f3f3f3;
-    }
-    h1, h2 {
-      color: #2d6a4f;
-    }
-    ul {
-      padding-left: 20px;
-    }
-    a {
-      color: #0077cc;
-    }
-    code {
-      background-color: #e1e1e1;
-      padding: 2px 6px;
-      border-radius: 4px;
-    }
-  </style>
-</head>
+  </head>
 <body>
 
   <h1>🏋️‍♂️Sweat Squad</h1>
@@ -47,8 +23,8 @@
   </ul>
  
  <h2>📸 Screenshots</h2>
-  <img src=C:\Users\User\Documents\(7) WhatsApp_files\Screenshot1.jpg  alt="Not Available">
-  <img src=C:\Users\User\Documents\Blackmagic Design\Screenshot2.jpg   alt="Not Available">
+  <img src= "C:\Users\User\Documents\(7) WhatsApp_files\Screenshot1.jpg" alt="Not Available">
+  <img src= "C:\Users\User\Documents\Blackmagic Design\Screenshot2.jpg"  alt="Not Available">
 
   <h2>🌐 Live Demo</h2>
   <p>Coming soon! Or <a href= "https://www.figma.com/design/wDHWM2bacr1xc4Kpgdrxmh/project-for-figma?node-id=1-3&t=8ZPe34lNBNcLl9RE-1" target="_blank">view prototype on Figma</a>.</p>
